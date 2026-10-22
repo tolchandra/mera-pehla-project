@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+    printf("Hello, mera pehla GitHub project!");
+    return 0;
+}
